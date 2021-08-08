@@ -2,7 +2,7 @@
 
 Day 9 of ***100 days of code*** created and hosted an api which scraps the data from amazon and displays data in json format.
 
-and also placed it in Rapidapi platform.
+and also placed it in Rapid api platform.
 
 check the hosted api [here](https://rapidapi.com/ranjithjupaka/api/amazon-data-scrapper5)
 
